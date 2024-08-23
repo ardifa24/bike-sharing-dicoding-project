@@ -4,16 +4,16 @@
 ### File Structures
 ```
 ├── Dashboard
-│   ├── dashboard_by
+│   ├── dashboard_py
 │   ├── day_clean.csv
 │   └── hour_clean.csv
 ├── Dataset
 │   ├── day.csv
 │   └── hour.csv
+├── README.md
 ├── notebook.ipynb
 ├── requirements.txt
-├── url.txt
-└── README.md
+└── url.txt
 
 ```
 ### Setup Environment - Anaconda
