@@ -173,7 +173,7 @@ ax.tick_params(axis='x', labelsize=35)
 ax.tick_params(axis='y', labelsize=30)
 st.pyplot(fig)
 
-#Subheader RFM Recap
+#Subheader RFM Overview
 st.subheader('RFM Overview')
  
 col1, col2, col3 = st.columns(3)
